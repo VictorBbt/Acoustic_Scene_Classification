@@ -6,7 +6,7 @@ Authors: Barberteguy Victor
 
 Based on the [following repository](https://github.com/dataflowr/Project-Acoustic-Scene-Classification-DCASE.git) 
 
-This is a project done during the Deep Learning class by Prof. Umut Simsekli. It explores Deep Learning applied to audio scene classification, with CNN-based architectures (Resnet, CNN6) and several tricks implemented [here](https://arxiv.org/abs/2105.13734) (the github page is below). I also investigate the AudioCLIP mulitmodal founddation model for such audio classification task.
+This is a project done during the Deep Learning class by Prof. Umut Simsekli. It explores Deep Learning methods for audio scene classification, with CNN-based architectures (Resnet, CNN6) and several tricks implemented [here](https://arxiv.org/abs/2105.13734) (the github page is below). I also investigate the AudioCLIP mulitmodal founddation model for such audio classification task.
 
 In this repository, you will find all you need to download and run the project **except the dataset**, that you will have to download in *./data/audio/class_name/\*.wav* (the csv created for training is left to see how it looks like). The *TAU-urban-acoustic-scenes-2020-mobile-development* is also left (no need to download it).
 
